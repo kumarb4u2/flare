@@ -1,0 +1,47 @@
+{
+  "name": "Mumbai to Ahemdabad",
+  "label": "high speed rail",
+  "backgroundColor": "red",
+  "height": "50",
+  "width": "150",
+  "children": [
+    {
+      "name": "Mid Section 1 (C-3)",
+      "label": "Chainnage - KM 21.050 to KM 156.600",
+      "children": [
+        {
+          "name": "Mid Section 1 (C-3)",
+          "label": "Chainnage - KM 21.050 to KM 156.600"
+        }
+      ]
+    },
+    {
+      "name": "Mid Section 1 (C-3)",
+      "label": "Chainnage - KM 21.050 to KM 156.600",
+      "children": [
+        {
+          "name": "Mid Section 1 (C-3)",
+          "label": "Chainnage - KM 21.050 to KM 156.600"
+        },
+        {
+          "name": "Mid Section 1 (C-3)",
+          "label": "Chainnage - KM 21.050 to KM 156.600"
+        }
+      ]
+    },
+    {
+      "name": "Mid Section 1 (C-3)",
+      "label": "Chainnage - KM 21.050 to KM 156.600",
+      "children": [
+        {
+          "name": "Mid Section 1 (C-3)",
+          "label": "Chainnage - KM 21.050 to KM 156.600"
+        },
+        {
+          "name": "Mid Section 1 (C-3)",
+          "label": "Chainnage - KM 21.050 to KM 156.600"
+        }
+      ]
+    }
+  ]
+}
