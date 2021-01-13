@@ -333,14 +333,14 @@ treeJSON = d3.json('flareWithVeryLessNodes.json', function (error, treeData) {
 
   function centerNode(source) {
     scale = zoomListener.scale();
-    x = -source.y0;
-    y = -source.x0;
+    x = -source.x0;
+    y = -source.y0;
     x = x * scale + viewerWidth / 2;
     y = y * scale + viewerHeight / 2;
-    // d3.select('g')
-    //   .transition()
-    //   .duration(duration)
-    //   .attr('transform', 'translate(' + x + ',' + y + ')scale(' + scale + ')');
+    d3.select('g')
+      .transition()
+      .duration(duration)
+      .attr('transform', 'translate(' + x + ',' + y + ')scale(' + scale + ')');
     zoomListener.scale(scale);
     zoomListener.translate([x, y]);
   }
@@ -552,6 +552,8 @@ treeJSON = d3.json('flareWithVeryLessNodes.json', function (error, treeData) {
         });
       })
       .remove();
+
+    console.log('updated nodes', nodes);
 
     // Stash the old positions for transition.
     nodes.forEach(function (d) {

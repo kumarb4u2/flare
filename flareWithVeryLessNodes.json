@@ -10,35 +10,35 @@
       "label": "Chainnage - KM 21.050 to KM 156.600",
       "children": [
         {
-          "name": "Mid Section 1 (C-3)",
+          "name": "Mid Section 11 (C-3)",
           "label": "Chainnage - KM 21.050 to KM 156.600"
         }
       ]
     },
     {
-      "name": "Mid Section 1 (C-3)",
+      "name": "Mid Section 2 (C-3)",
       "label": "Chainnage - KM 21.050 to KM 156.600",
       "children": [
         {
-          "name": "Mid Section 1 (C-3)",
+          "name": "Mid Section 21 (C-3)",
           "label": "Chainnage - KM 21.050 to KM 156.600"
         },
         {
-          "name": "Mid Section 1 (C-3)",
+          "name": "Mid Section 22 (C-3)",
           "label": "Chainnage - KM 21.050 to KM 156.600"
         }
       ]
     },
     {
-      "name": "Mid Section 1 (C-3)",
+      "name": "Mid Section 3 (C-3)",
       "label": "Chainnage - KM 21.050 to KM 156.600",
       "children": [
         {
-          "name": "Mid Section 1 (C-3)",
+          "name": "Mid Section 31 (C-3)",
           "label": "Chainnage - KM 21.050 to KM 156.600"
         },
         {
-          "name": "Mid Section 1 (C-3)",
+          "name": "Mid Section 32 (C-3)",
           "label": "Chainnage - KM 21.050 to KM 156.600"
         }
       ]
